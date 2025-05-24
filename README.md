@@ -1,3 +1,16 @@
+# /* 
+This repository contains solutions to 5 interesting programming challenges. Currently, I'm working on Task #2 which involves implementing shell functionality including:
+
+- Pipes (|)
+- Logical operators (&&, ||)
+- Background execution (&)
+- I/O redirections (>, >>, <)
+
+The current implementation can be found in: 2/solution.c
+
+For full problem statements and requirements, please see the respective directories.
+# */
+
 Practical examples and homeworks for "System Programming" course of lectures.
 
 The course: https://slides.com/gerold103/decks/sysprog and https://slides.com/gerold103/decks/sysprog_eng
