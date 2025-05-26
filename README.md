@@ -4,7 +4,7 @@ This repository contains solutions to 5 interesting programming challenges. Curr
 - Pipes (|)
 - Logical operators (&&, ||)
 - Background execution (&)
-- I/O redirections (>, >>, <)
+- I/O redirections (>, >>)
 
 The current implementation can be found in: 2/solution.c
 
